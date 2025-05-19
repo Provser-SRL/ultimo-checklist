@@ -2,7 +2,7 @@
 
 // ID de tu Google Sheets y el nombre de la hoja
 const spreadsheetId = '1HW550EJzFdhlM8xFaSVRLlaiLDoxXpdOlTl2y_uj044';  // Reemplázalo con el ID de tu hoja
-const range = 'Respuestas de formulario 1!B:B';  // Asegúrate de cambiar el rango a la columna que desees (ej. A:A para la columna A)
+const range = 'RESPUESTAS!B:B';  // Asegúrate de cambiar el rango a la columna que desees (ej. A:A para la columna A)
 
 const apiKey = 'AIzaSyDEr-ilMHNaFKRicCxrkYoBRzCAN1rlnwU';  // Reemplázalo con tu clave de API
 

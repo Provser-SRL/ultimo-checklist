@@ -6,7 +6,7 @@ const vehiculoId = PARAMS.get('vehiculo');
 
 // GOOGLE SHEET
 const spreadsheetId = '1B9fyL5jVDhPJplemN_rECSMxZ77_DqmxWBp84wD-sXs';  // Reemplázalo con el ID de tu hoja
-const range = 'Respuestas de formulario 1!A:Z';
+const range = 'RESPUESTAS!A:Z';
 const apiKey = 'AIzaSyDEr-ilMHNaFKRicCxrkYoBRzCAN1rlnwU'; 
 
 
