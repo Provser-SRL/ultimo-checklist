@@ -29,7 +29,7 @@ function loadSheetData() {
 }
 
 function findMatchingRows(rows, vehiculoId) {
-    // Buscamos las filas que tienen el ID de vehículo en la columna C (índice 2)
+    // Buscamos las filas que tienen el ID de vehículo en la columna B (índice 1)
     return rows.filter(row => row[1] && row[1] === vehiculoId);
 }
 
